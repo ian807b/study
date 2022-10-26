@@ -1,7 +1,4 @@
-// CMPT 225 - D100
-// Name: Ian Gihwan Hwang
-// Student #: 301461304
-// Assignment 5
+// Name: Ian Hwang
 
 #pragma once
 
